@@ -2,6 +2,7 @@ import pygame
 import threading
 import time
 
+#hello
 pygame.init()
 
 clock = pygame.time.Clock()
