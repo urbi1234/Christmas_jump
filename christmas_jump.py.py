@@ -88,7 +88,7 @@ while not ex:
 		skala1.x-=5
 
 	print(speed, čas)
-	pygame.draw.rect(canvas, (15, 0, 0), runner)
+	pygame.draw.rect(canvas, (0, 0, 0), runner)
 	pygame.draw.rect(canvas, (0, 0, 0), skala)
 	pygame.draw.rect(canvas, (0, 0, 0), skala1)
 
